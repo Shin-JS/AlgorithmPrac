@@ -8,6 +8,7 @@ public class ArrayCopy {
         for(int i = 0 ; i < b.length; i++){
             a[i] = b[i];
         }
+        
     }
     
     public static void main(String[] args) {
